@@ -1,0 +1,54 @@
+* { margin:0; padding:0;}
+body {
+  background: #000;
+  color: #fff;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: grey;
+  position: relative;
+  opacity: .8; 
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav li{
+  font-size: 20px;
+  height: 40px;
+  display: inline-block;
+  width: 190px;
+  text-decoration: none;
+
+}
+
+main{
+   background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg");
+   height: 800px;
+   background-size: cover;
+   position: relative;
+}
+main a {
+  text-decoration: none;
+  color: #333;
+}
+main h1{
+  color: gray;
+  font-size: 80px;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: 950;
+}
+
+main p {
+  text-align: center;
+  padding: 0px 100px;
+  padding-top: 40px;
+  font-size: 20px;
+  color: #333;
+}
+
+
